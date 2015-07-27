@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "microplugin": "0.0.3",
-    "sifter": "^0.4.0"
+    "sifter": "brianreavis/sifter.js#master"
   },
   "devDependencies": {
     "grunt": "0.4.x",
